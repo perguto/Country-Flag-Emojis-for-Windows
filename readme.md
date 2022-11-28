@@ -21,8 +21,9 @@ Restart your computer
 3. Open in another window the folder where you saved `google_emoji_font_for_windows.ttf` and drag it into the font folder.
 
 <p float="left">
-<img src="./screenshots/move_font.png" width="400" />
-<img src="./screenshots/copy_font.png" width="300" style="align: right" />
+<img src="./screenshots/move_font.png" width="45%" />
+&nbsp; &nbsp; &nbsp; &nbsp;
+<img src="./screenshots/copy_font.png" width="45%" style="align: right" />
 </p>
 
 4. You're asked if you want to replace the Segoe UI Emoji font. Choose yes.
