@@ -20,12 +20,12 @@ Restart your computer
 
 3. Open in another window the folder where you saved `google_emoji_font_for_windows.ttf` and drag it into the font folder.
 
-[](./screenshots/move_font.png)
+![](./screenshots/move_font.png)
 
-[](./screenshots/copy_font.png)
+![](./screenshots/copy_font.png)
 
 4. You're asked if you want to replace the Segoe UI Emoji font. Choose yes.
 
-[](./screenshots/replace_font.png)
+![](./screenshots/replace_font.png)
 
 5. You're done! Restart your computer to make the new emojis appear.
