@@ -23,7 +23,7 @@ Restart your computer
 <p float="left">
 <img src="./screenshots/move_font.png" width="53.6%" />
 &nbsp; &nbsp; &nbsp; &nbsp;
-<img src="./screenshots/copy_font.png" width="37.4%" style="align: right" />
+<img src="./screenshots/copy_font.png" width="36.4%" style="align: right" />
 </p>
 
 4. You're asked if you want to replace the Segoe UI Emoji font. Choose yes.
