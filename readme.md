@@ -14,7 +14,7 @@ Restart your computer
 
 1. Open the windows fonts folder by typing `C:\Windows\Fonts` into the explorer address bar. Find the font `Segoe UI Emoji Regular` copy it and save it as a backup in a different folder.
 
-<img src="./screenshots/backup_font.png" style="width:50.0%" />
+<img src="./screenshots/backup_font.png" width="200" />
 
 2. [Click here to download `google_emoji_font_for_windows.ttf`](https://github.com/perguto/Country-Flag-Emojis-for-Windows/blob/master/google_emoji_font_for_windows.ttf?raw=true).
 
