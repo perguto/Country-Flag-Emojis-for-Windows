@@ -20,7 +20,7 @@ Restart your computer
 
 3. Open in another window the folder where you saved `google_emoji_font_for_windows.ttf` and drag it into the font folder.
 
-<img src="./screenshots/move_font.png" style="width:400" />
+<img src="./screenshots/move_font.png" width="400" />
 
 <img src="./screenshots/copy_font.png" width="400" />
 
