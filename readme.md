@@ -14,13 +14,13 @@ Restart your computer
 
 1. Open the windows fonts folder by typing `C:\Windows\Fonts` into the explorer address bar. Find the font `Segoe UI Emoji Regular` copy it and save it as a backup in a different folder.
 
-<img src="./screenshots/backup_font.png" width="200" />
+![](./screenshots/backup_font.png)
 
 2. [Click here to download `google_emoji_font_for_windows.ttf`](https://github.com/perguto/Country-Flag-Emojis-for-Windows/blob/master/google_emoji_font_for_windows.ttf?raw=true).
 
 3. Open in another window the folder where you saved `google_emoji_font_for_windows.ttf` and drag it into the font folder.
 
-![](./screenshots/move_font.png)
+<img src="./screenshots/move_font.png" style="width:50.0%" />
 
 ![](./screenshots/copy_font.png)
 
