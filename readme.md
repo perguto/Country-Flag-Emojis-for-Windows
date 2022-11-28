@@ -16,7 +16,7 @@ Restart your computer
 
 ![](./screenshots/backup_font.png)
 
-2. [Click here to download google_emoji_font_for_windows.ttf](https://github.com/perguto/Country-Flag-Emojis-for-Windows/blob/master/google_emoji_font_for_windows.ttf?raw=true).
+2. [Click here to download `google_emoji_font_for_windows.ttf`](https://github.com/perguto/Country-Flag-Emojis-for-Windows/blob/master/google_emoji_font_for_windows.ttf?raw=true).
 
 3. Open in another window the folder where you saved `google_emoji_font_for_windows.ttf` and drag it into the font folder.
 
