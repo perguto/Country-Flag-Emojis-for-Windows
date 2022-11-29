@@ -31,3 +31,19 @@ Restart your computer
 ![](./screenshots/replace_font.png)
 
 5. You're done! Restart your computer to make the new emojis appear.
+
+
+## How I did it
+
+Google's Emoji Font
+[Noto Color Emoji](https://fonts.google.com/download?family=Noto%20Color%20Emoji) is free for anyone to download and modify. For Windows, you need their converted version [Noto Color Emoji WindowsCompatible](./resources/NotoColorEmoji_WindowsCompatible.ttf) as the original font uses Google's own extension of the ttf font format for colors, which differs from Microsoft's.
+
+All I did was changing the font names to that of Microsoft's emoji font "Segoe UI Emoji"
+
+I did this with `ttx`, a program belonging to the fonttools suite.
+
+## Other Emoji Fonts
+
+Apparently, it's also possible to get Twitter's emojis on Windows:
+
+[https://fonts.google.com/download?family=Noto%20Color%20Emoji](https://github.com/13rac1/twemoji-color-font#install-on-windows) 
