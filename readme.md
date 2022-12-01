@@ -12,7 +12,7 @@ Restart your computer to make the new font appear everywhere!
 
 (This is just the same steps as described above, but in more detail)
 
-(Tutorial Video: https://youtu.be/jrs3Y7SIQL0)
+Video tutorial: https://youtu.be/jrs3Y7SIQL0
 
 1. Open the windows fonts folder by typing `C:\Windows\Fonts` into the explorer address bar. Find the font `Segoe UI Emoji Regular` copy it and save it as a backup in a different folder.
 
