@@ -6,7 +6,7 @@ The file [google_emoji_font_for_windows.ttf](https://github.com/perguto/Country-
 Installing it overwrites the Windows Emoji font and replaces it with Google's Emoji font (the same one as on Android), which has all country flags and looks better anyway.
 (Make a copy of the original Windows emoji font [`C:\Windows\Fonts\seguiemj.ttf`](C:\Windows\Fonts\seguiemj.ttf), so you can always revert.)
 
-Restart your computer
+Restart your computer to make the new font appear everywhere!
 
 ## Detailed Instructions
 
