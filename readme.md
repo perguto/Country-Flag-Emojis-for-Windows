@@ -42,6 +42,7 @@ In case you still see the old Emoji's after a restart, you can try clearing the 
 cd 'C:\Windows\ServiceProfiles\LocalService\AppData\Local'
 mv "FontCache" "FontCache_backup"
 ```
+![](./screenshots/pwsh_as_admin.png)
 
 (CTRL-V might not work, press the right mouse button). (Afterwards, you can remove the backup with
 
