@@ -70,6 +70,31 @@ All I did was changing the font names to that of Microsoft's emoji font "Segoe U
 
 I did this with `ttx`, a program belonging to the fonttools suite.
 
+`ttx` is part of the `fonttools` python package.
+
+Download `python`, its package manager `pip`, put them in your PATH and enter
+
+```sh
+pip install fonttools
+```
+
+now by using
+```
+ttx somefontfile.ttf
+```
+
+you get an xml file `somefontfile.ttx`, which you can open with a text editor and edit, the files are rather self-explanatory.
+
+I just replaced the whole `<name>...</name>` block of Google's `NotoColorEmoji_WindowsCompatible.ttf` font with that of Microsoft's `seguiemj.ttf` font.
+
+Finally, convert back with
+```
+ttx somefontfile.ttx
+```
+
+and you'll get a file `somefontfile.ttf` (or `somefontfile#1.ttf` if that file already exists) which you can install right away.
+
+
 ## Other Emoji Fonts
 
 Apparently, it's also possible to get Twitter's emojis on Windows:
