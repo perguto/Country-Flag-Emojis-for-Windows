@@ -34,6 +34,28 @@ Video tutorial: https://youtu.be/jrs3Y7SIQL0
 
 5. You're done! Restart your computer to make the new emojis appear.
 
+## Troubleshooting
+
+In case you still see the old Emoji's after a restart, you can try clearing the font cache. That is, open powershell as administrator, then paste
+
+```
+cd 'C:\Windows\ServiceProfiles\LocalService\AppData\Local'
+mv "FontCache" "FontCache_backup"
+```
+
+(CTRL-V might not work, press the right mouse button). (Afterwards, you can remove the backup with
+
+```
+cd 'C:\Windows\ServiceProfiles\LocalService\AppData\Local'
+rm "FontCache_backup"
+```
+or restore it with
+
+```
+cd 'C:\Windows\ServiceProfiles\LocalService\AppData\Local'
+mv -force "FontCache_backup" "FontCache"
+```
+)
 
 ## How I did it
 
