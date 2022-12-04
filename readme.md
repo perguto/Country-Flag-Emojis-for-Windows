@@ -36,7 +36,7 @@ Video tutorial: https://youtu.be/jrs3Y7SIQL0
 
 ## Troubleshooting
 
-In case you still see the old Emoji's after a restart, you can try clearing the font cache. That is, open powershell as administrator:
+In case you still see the old emojis after a restart, you can try clearing the font cache. That is, open powershell as administrator:
 
 ![](./screenshots/pwsh_as_admin.png)
 
