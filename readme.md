@@ -36,15 +36,18 @@ Video tutorial: https://youtu.be/jrs3Y7SIQL0
 
 ## Troubleshooting
 
-In case you still see the old Emoji's after a restart, you can try clearing the font cache. That is, open powershell as administrator, then paste
+In case you still see the old Emoji's after a restart, you can try clearing the font cache. That is, open powershell as administrator:
+
+![](./screenshots/pwsh_as_admin.png)
+
+Then, paste
 
 ```
 cd 'C:\Windows\ServiceProfiles\LocalService\AppData\Local'
 mv "FontCache" "FontCache_backup"
 ```
-![](./screenshots/pwsh_as_admin.png)
 
-(CTRL-V might not work, press the right mouse button). (Afterwards, you can remove the backup with
+(`CTRL-V` might not work, press the right mouse button). (Afterwards, you can remove the backup with
 
 ```
 cd 'C:\Windows\ServiceProfiles\LocalService\AppData\Local'
