@@ -104,7 +104,7 @@ and you'll get a file `somefontfile.ttf` (or `somefontfile#1.ttf` if that file a
 
 
 ## Other Emoji Fonts
-
+<!-- https://fonts.google.com/download?family=Noto%20Color%20Emoji -->
 Apparently, it's also possible to get Twitter's emojis on Windows:
 
-[https://fonts.google.com/download?family=Noto%20Color%20Emoji](https://github.com/13rac1/twemoji-color-font#install-on-windows) 
+[https://github.com/13rac1/twemoji-color-font#install-on-windows](https://github.com/13rac1/twemoji-color-font#install-on-windows) 
