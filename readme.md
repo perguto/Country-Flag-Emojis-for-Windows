@@ -36,6 +36,14 @@ Video tutorial: https://youtu.be/jrs3Y7SIQL0
 
 ## Troubleshooting
 
+### New emojis only not showing in browser
+
+Make sure, you don't simultaneously use other browser extensions for Emojis or different fonts. Also note that some sites load their own emoji fonts and might therefore not work.
+
+Alternatively, if you only want flags in your browser, get the tampermonkey chrome extension (greasemonkey for firefox) and install this script: [https://perguto.github.io/tampermonkey/Country%20Emojis.user.js](https://perguto.github.io/tampermonkey/Country%20Emojis.user.js)
+
+### New emojis not showing at all
+
 In case you still see the old emojis after a restart, you can try clearing the font cache. That is, open powershell as administrator:
 
 ![](./screenshots/pwsh_as_admin.png)
